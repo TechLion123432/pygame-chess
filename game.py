@@ -243,3 +243,4 @@ class Game:
             self.chess.reset()
             # clear winner
             self.chess.winner = ""
+            print("Its game over for you")
